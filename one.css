@@ -1,3 +1,17 @@
+body {
+    background-color: antiquewhite;
+}
+
 h1 {
-    font-size: 24;
+    font-size: 40;
+    text-align: center;
+}
+
+h3 {
+    text-align: left;
+    text-decoration-color: aquamarine;
+}
+
+img {
+    text-align: center;
 }
